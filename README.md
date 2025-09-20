@@ -1,5 +1,17 @@
 # AI Assignment 1: Search Algorithms on the Romania Roadmap
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Implemented Algorithms](#implemented-algorithms)
+- [Heuristics](#heuristics)
+- [Expected Outputs for Arad -> Bucharest](#expected-outputs-for-arad---bucharest)
+- [Runtime Data](#runtime-data)
+- [Usage](#usage)
+- [Example](#example)
+- [Notes](#notes)
+- [References](#references)
+
 ## Overview
 
 This project implements several classical search algorithms on the Romania roadmap problem, a standard example from artificial intelligence. The roadmap is represented as a weighted undirected graph, and the algorithms find paths between cities using different strategies and heuristics.
